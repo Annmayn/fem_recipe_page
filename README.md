@@ -25,7 +25,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ### Links
 
 - Solution URL: [https://github.com/Annmayn/fem_recipe_page](https://github.com/Annmayn/fem_recipe_page)
-- Live Site URL: [Coming Soon]()
+- Live Site URL: [https://annmayn.github.io/fem_recipe_page/](https://annmayn.github.io/fem_recipe_page/)
 
 ## My process
 
@@ -47,4 +47,4 @@ mine in react and tailwind, so I learned a lot about the setup and configuration
 ## Author
 
 - LinkedIn - [Neema Tsering](https://www.linkedin.com/in/neema-tsering/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Annmayn)
+- Frontend Mentor - [@Annmayn](https://www.frontendmentor.io/profile/Annmayn)
