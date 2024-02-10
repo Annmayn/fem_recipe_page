@@ -1,13 +1,15 @@
+import OmeletteImage from "../../assets/images/image-omelette.jpeg";
+
 const Recipe = () => {
   return (
     <div
-      className="flex justify-center bg-eggshell text-normal"
+      className="flex justify-center bg-eggshell text-normal md:px-8"
       style={{ width: "100vw" }}
     >
       <div className="flex flex-col gap-y-5 bg-white text-charcoal rounded-2xl md:my-48">
         <img
           className="self-center md:m-8 md:rounded-2xl"
-          src="/src/assets/images/image-omelette.jpeg"
+          src={OmeletteImage}
           alt="omelette"
         />
         <div className="flex flex-col p-8 gap-y-5">

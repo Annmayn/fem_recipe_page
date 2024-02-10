@@ -38,7 +38,17 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ### What I learned
 
 It is wayyyy easier to start mobile first and then handle bigger screens. This is also the first personal project of
-mine in react and tailwind, so I learned a lot about the setup and configuration for them.
+mine in react and tailwind, so I learned a lot about the setup and configuration for them. 
+
+I learned a nice little trivia. If the images are not in the ```public``` folder, we need to import them before use:
+```tsx
+import OmeletteImage from "../../assets/images/image-omelette.jpeg";
+<img
+  src={OmeletteImage}
+  alt="omelette"
+/>
+```
+Otherwise, the image won't be compiled when building.
 
 ### Useful resources
 
